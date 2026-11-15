@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="findaimodelforme">
+  <defs>
+    <linearGradient id="g" x1="6%" y1="0%" x2="94%" y2="100%">
+      <stop offset="0%" stop-color="#5B6FF0"/>
+      <stop offset="50%" stop-color="#7A5FE9"/>
+      <stop offset="100%" stop-color="#A55EEB"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="118" fill="url(#g)"/>
+  <!-- lens -->
+  <circle cx="228" cy="216" r="108" fill="none" stroke="#FFFFFF" stroke-width="38"/>
+  <!-- handle -->
+  <path d="M310 298 L388 380" fill="none" stroke="#FFFFFF" stroke-width="42" stroke-linecap="round"/>
+  <!-- 3-node network with slight V on base -->
+  <g fill="#FFFFFF" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M228 154 L174 250" fill="none" stroke-width="11"/>
+    <path d="M228 154 L282 250" fill="none" stroke-width="11"/>
+    <path d="M174 250 L228 266 L282 250" fill="none" stroke-width="11"/>
+    <circle cx="228" cy="154" r="17"/>
+    <circle cx="174" cy="250" r="17"/>
+    <circle cx="282" cy="250" r="17"/>
+  </g>
+</svg>
